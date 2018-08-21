@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Create Your Gmail Account</title>
+  <title>Create Your Google Account</title>
  <link rel="shortcut icon" href="icon.png">
  <link rel="stylesheet" href="16newstyle.css">
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
